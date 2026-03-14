@@ -18,10 +18,10 @@ START_IMG = getenv("START_IMG", "https://graph.org/file/5948678d1dcbc98e11d49.jp
 
 SESSION = getenv("SESSION", None)
 
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/rev_fxx")
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/def_Zoka")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/mi3i11")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/fo78v")
 
-SUDO_USERS = list(map(int, getenv("SUDO_USERS", "5656828413").split()))
+SUDO_USERS = list(map(int, getenv("SUDO_USERS", "").split()))
 
 
 FAILED = "https://graph.org/file/5948678d1dcbc98e11d49.jpg"
